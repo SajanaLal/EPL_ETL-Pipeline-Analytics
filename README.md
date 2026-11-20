@@ -2,6 +2,21 @@
 
 Raw Premier League data turned into a reliable warehouse and dashboard: API-Football → Python extraction → SQL Server staging → star-schema warehouse → Power BI.
 
+## Dashboard
+
+### Season Overview
+
+![Season Overview dashboard](Season%20Overview.png)
+
+### Team Performance
+
+![Team Performance dashboard](Performance%20Analysis.png)
+
+### Match Analysis
+
+![Match Analysis dashboard](Match%20Analysis.png)
+
+
 ## Pipeline
 
 `main.py` runs six logged steps:
